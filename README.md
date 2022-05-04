@@ -1,6 +1,6 @@
 # Helm Docker Image
 
-This docker image contains [Helm CLI](https://helm.sh) and [kubectl](https://kubernetes.io). You can specify the desired version of Helm 3, by setting the `HELM_VERSION` var. It currently defaults to `3.4.1`.
+This docker image contains [Helm CLI](https://helm.sh) and [kubectl](https://kubernetes.io). You can specify the desired version of Helm 3, by setting the `HELM_VERSION` var. It currently defaults to `3.8.2`.
 
 ## Basic Usage Instructions
 
